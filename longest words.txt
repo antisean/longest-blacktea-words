@@ -164,6 +164,7 @@ cea - superserviceableness
 ced - heteroscedasticity
 cel - meningoencephalocele
 cen - astrospherecentrosomic
+ceo - chlamydobacteriaceous
 cep - electroencephalographically
 cer - phosphoglyceraldehyde
 ces - nonacquaintanceship
@@ -183,6 +184,7 @@ cil - saccharomucilaginous
 cin - succinylsulphathiazole
 cio - unselfconsciousness
 cip - underparticipation
+cir - uncircumscribedness
 cis - vicissitudinousness
 cit - magnetothermoelectricity
 cke - chickenheartedness
