@@ -428,6 +428,7 @@ gen - regeneratoryregeneratress
 geo - scientificogeographical
 ger - counterexaggeration
 ges - overgesticulativeness
+gge - hypersuggestibleness
 ght - unstraightforwardness
 gia - bronchohemorrhagia
 gic - philosophicopsychological
