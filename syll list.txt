@@ -419,6 +419,7 @@ gen
 geo
 ger
 ges
+gge
 ght
 gia
 gic
