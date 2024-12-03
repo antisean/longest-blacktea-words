@@ -1390,6 +1390,8 @@ wis - countercurrentwise
 woo - woodenheadedness
 wor - untrustworthiness
 
+xtr - pseudoambidextrously
+
 yan - hydroxyanthraquinone
 ych - philosophicopsychological
 ydr - hydroxydehydrocorticosterone
