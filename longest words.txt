@@ -113,7 +113,6 @@ ava - interavailability
 ave - hemidemisemiquaver
 avi - antigravitationally
 axi - zygomaticomaxillary
-
 bac - aerobacteriologically/chlamydobacteriaceous
 bal - historicocabbalistical
 ban - sulphocarbanilide
@@ -151,7 +150,6 @@ bul - mandibulosuspensorial
 bur - semibureaucratically
 bus - noncombustibility
 but - nondistributiveness
-
 cab - historicocabbalistical
 cal - microspectrophotometrically
 cam - strouthiocamelian
@@ -224,7 +222,6 @@ cur - hyperexcursiveness
 cus - electropercussive
 cut - scutelliplantation
 cyt - cytospectrophotometry
-
 dac - dacryocystosyringotomy
 dae - hypsilophodontidae
 dal - pharyngoamygdalitis
@@ -270,7 +267,6 @@ dri - turbinatocylindrical
 dro - hydroxydehydrocorticosterone
 duc - counterproductiveness
 dul - periosteomedullitis
-
 eab - noninterchangeableness
 eac - isopropylideneacetone
 ead - preadministrative
@@ -394,7 +390,6 @@ exc - counterexcommunication
 exi - existentialistically
 exp - pseudoexperimentally
 ext - unextinguishableness
-
 fac - facioscapulohumeral
 fer - preinferredpreinferring
 ffe - pseudoaffectionately
@@ -415,7 +410,6 @@ fre - unfrequentedness
 fri - unfrightenedness
 fro - superultrafrostified
 ful - scrofulotuberculous
-
 gal - saccharogalactorrhea
 gam - electroamalgamation
 gan - brigantinebrigantines
@@ -452,7 +446,6 @@ gua - sulfanilylguanidine
 gue - colleaguesmanship
 gui - nondistinguishableness
 gul - triangulotriangular
-
 hab - nondistinguishableness
 hae - zoologicoarchaeologist
 hag - bronchoesophagoscopy
@@ -503,7 +496,6 @@ hyl - cyclotrimethylenetrinitramine/trinitrophenylmethylnitramine
 hyp - hyperconscientiousness/hyperconstitutionalism
 hys - theologicometaphysical
 hyt - phytopaleontological
-
 iab - superdiabolicalness
 iac - triacetyloleandomycin
 ial - overindustrialization
@@ -547,6 +539,7 @@ ike - unsportsmanlikeness
 ila - pseudophilanthropically
 ile - pseudosacrilegiously
 ili - overimpressionability
+ill - calcareoargillaceous
 ilo - philosophicopsychological
 ily - sulfanilylguanidine
 ima - anthropoclimatologist
@@ -612,14 +605,12 @@ ivi - overindividualistically
 iza - overintellectualization
 ize - thyroparathyroidectomize
 izi - parathyroidectomizing
-
 ked - stiffneckedness
 ken - unsportsmanlikeness
 ker - keratoconjunctivitis
 ket - nonmarketability
 kin - phosphofructokinase
 kle - bibliokleptomaniac
-
 lab - labioglossopharyngeal
 lac - saccharogalactorrhea
 lad - helminthocladiaceae
@@ -689,7 +680,6 @@ lus - superinclusiveness
 lut - counterrevolutionaries
 lve - quicksilverishness
 lys - hyperpolysyllabically
-
 mac - macracanthrorhynchiasis
 mag - magnetothermoelectricity
 mak - hypermakroskelic
@@ -738,7 +728,6 @@ mpr - superincomprehensibleness
 mul - overstimulativeness
 mun - immunoelectrophoretically
 mus - ethnomusicologically
-
 nab - overimpressionableness
 nac - pseudoanachronistical
 nad - nonadventitiousness
@@ -754,6 +743,7 @@ nca - syncategorematically
 nce - electroencephalographically
 nch - pseudolamellibranchiate
 nci - counterpronunciamento
+ncl - unclassifiableness
 nco - superincomprehensibleness
 ncr - pancreaticoduodenostomy
 nct - blepharosphincterectomy
@@ -839,7 +829,6 @@ ntr - pneumoventriculography
 nts - disenfranchisements
 ntu - noncontumaciousness
 nve - unconventionalities
-
 oar - zoologicoarchaeologist
 oat - pyramidoattenuate
 oba - aquopentamminecobaltic
@@ -958,7 +947,6 @@ owe - snailfishessnailflower
 own - daffodowndillies
 oxi - peroxidicperoxiding
 oxy - hydroxydehydrocorticosterone
-
 pac - peripachymeningitis
 pal - palaeodendrologically
 pan - pancreaticoduodenostomy
@@ -1013,11 +1001,9 @@ pto - microcryptocrystalline
 pul - facioscapulohumeral
 pur - semipurposiveness
 pyr - chlorprophenpyridamine
-
 qua - squamatotuberculate
 que - nonconsequentialness
 qui - superinquisitiveness
-
 rab - tetrabromofluorescein
 rac - demethylchlortetracycline
 rad - microradiographically
@@ -1131,7 +1117,6 @@ run - superuniversalness
 rus - preobtrudingpreobtrusion
 rve - noninterventionalist
 rvi - superserviceableness
-
 sab - nonconversableness
 sac - heteropolysaccharide/saccharomucilaginous
 sal - ureterosalpingostomy
@@ -1213,7 +1198,6 @@ sup - superincomprehensibleness
 sur - antiinsurrectionists
 syc - philosophicopsychological
 syn - syncategorematically
-
 tab - antidisestablishmentarianism
 tac - saccharomycetaceous
 tag - predisadvantageously
@@ -1289,7 +1273,6 @@ tum - noncontumaciousness
 tur - microminiaturizations
 tyl - pseudomonocotyledonous
 typ - palaeotypographical
-
 ual - overintellectualization      
 uar - superguaranteeing      
 uat - quattuordecillionth
@@ -1361,7 +1344,6 @@ uti - hyperconstitutionalism
 uto - nonautobiographically
 uts - outsophisticating
 utt - unrebuttableness
-
 val - superchivalrousness
 van - predisadvantageously
 var - ovariosalpingectomy
@@ -1378,7 +1360,6 @@ vin - polyvinylpyrrolidone
 vis - nonrelativistically
 vit - blepharoconjunctivitis
 vol - counterrevolutionaries
-
 war - unstraightforwardness
 way - waylaidlessness
 wee - sweetheartedness
@@ -1389,9 +1370,7 @@ win - withdrawingness
 wis - countercurrentwise
 woo - woodenheadedness
 wor - untrustworthiness
-
 xtr - pseudoambidextrously
-
 yan - hydroxyanthraquinone
 ych - philosophicopsychological
 ydr - hydroxydehydrocorticosterone
@@ -1411,7 +1390,6 @@ ysi - theologicometaphysical
 yst - dacryocystoblennorrhea/ureterocystanastomosis
 yth - erythrodegenerative
 yto - cytospectrophotometry
-
 zat - overintellectualization
 zed - semiprofessionalized
 zer - scheuchzeriaceous
