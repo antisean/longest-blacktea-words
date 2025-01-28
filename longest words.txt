@@ -402,7 +402,7 @@ fis - snailfishessnailflower
 fla - noninflammableness
 fle - overreflectiveness
 flo - snailfishessnailflower
-flu - chlorotrifluoroethylene
+flu - dichlorodifluoromethane/chlorotrifluoroethylene
 fol - quinquefoliolate
 for - formaldehydesulphoxylate
 fra - disenfranchisements
