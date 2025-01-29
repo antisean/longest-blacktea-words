@@ -33,7 +33,7 @@ repugn
 rfound
 rfree
 tchick
-warrrantee
+warrantee
 debcle
 whafabout
 wasn
