@@ -15,3 +15,5 @@ reichsgulden
 reichspfennig
 reichsthaler
 rheingold
+wiedersehen
+schnabelkanne
