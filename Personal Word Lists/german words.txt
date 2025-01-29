@@ -11,3 +11,7 @@ fuhrer
 fuhrers
 autobahnen
 markgenossenschaft
+reichsgulden
+reichspfennig
+reichsthaler
+rheingold
