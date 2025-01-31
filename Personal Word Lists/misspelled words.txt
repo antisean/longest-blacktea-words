@@ -79,3 +79,7 @@ larnyx
 wastabl
 agtbasic
 appl
+pgnttrp
+isn
+aren
+wouldn
