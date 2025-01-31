@@ -1,4 +1,5 @@
 acestes
+acheron
 achilles
 acis
 acontius
@@ -106,6 +107,7 @@ circean
 clio
 clotho
 clytemnestra
+cocytus
 cotys
 crete
 cronus
@@ -311,6 +313,7 @@ phaethonic
 phaethontes
 philemon
 philoctetes
+phlegethon
 phobos
 phoebe
 phoebean
