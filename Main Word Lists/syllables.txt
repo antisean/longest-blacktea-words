@@ -40,7 +40,7 @@ alc
 ale
 ali
 all
-aim
+alm
 aln
 alo
 als
@@ -200,6 +200,7 @@ col
 com
 con
 cop
+cor
 cos
 cot
 cou
@@ -208,6 +209,7 @@ cre
 cri
 cro
 cru
+cry
 cta
 cte
 cti
@@ -310,6 +312,7 @@ ein
 eis
 ela
 ele
+eli
 ell
 elo
 els
@@ -439,6 +442,10 @@ gra
 gre
 gri
 gro
+gua
+gue
+gui
+gul
 hab
 hae
 hag
@@ -587,7 +594,6 @@ ita
 ite
 ith
 iti
-ito
 itr
 itt
 itu
@@ -673,6 +679,7 @@ lum
 lus
 lut
 lve
+lys
 mac
 mag
 mak
