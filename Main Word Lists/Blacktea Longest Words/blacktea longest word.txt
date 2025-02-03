@@ -271,6 +271,7 @@ eab: noninterchangeableness
 eac: isopropylideneacetone
 ead: blunderheadedness, cabbageheadedness, chowderheadedness, chuckleheadedness, knuckleheadedness, leadenheartedness, oversteadfastness, preadministration, preadministrative
 eae: chlamydobacteriaceae
+eak: heartbreakingly, sabbathbreaking, unbreakableness, unspeakableness, weakheartedness
 eal: glossolabiopharyngeal, labioglossopharyngeal
 eam: oversqueamishness
 ean: cineangiocardiographic, deanthropomorphization
@@ -594,6 +595,7 @@ ita: antiauthoritarianism, anticapitalistically, antimilitaristically, antiprest
 ite: transubstantiationite
 ith: cholecystolithotripsy, choledocholithotripsy, chromophotolithograph, photochromolithograph, photolithographically
 iti: pericardiomediastinitis
+ito: peritoneopericardial, pyopneumoperitonitis
 itr: cyclotrimethylenetrinitramine, trinitrophenylmethylnitramine
 itt: nonintermittentness
 itu: deinstitutionalization, hyperconstitutionalism
@@ -980,6 +982,7 @@ pli: nonmultiplicational, nonmultiplicatively, oversimplifications
 plo: preterdiplomatically
 plu: plutonometamorphism
 pod: anthropodeoxycholic
+pol: polytetrafluoroethylene
 pon: spondylotherapeutics, superresponsibleness
 pop: anthropophysiography, pseudoapoplectically
 por: noncontemporaneousness
