@@ -41,9 +41,9 @@ ale: alert, alexandrian, ambivalent, concealed, convalescent, covalent, dealer, 
 ali: alien, alienated, alignment, alike, alimentary, aliphatic, alive, alkaline, appealing, australia
 all: all, alleged, allegorical, allelic, allergic, allied, allogeneic, allotted, allowable, allowed
 alm: almighty, balmy, calm, calmer, ophthalmic, palm, palmar, psalm, salmon, talmudic
-aln: malnourished
+aln: malnourished, aln, naturalness, physicalness
 alo: alone, analog, analogical, analogous, anomalous, buffalo, caloric, calorie, cataloging, dialogic
-als: false
+als: false, falseness, falsehood, falsehoods
 alt: admiralty, alt, altar, altered, alternate, alternative, altitude, altruistic, baltic, basaltic
 alu: eigenvalue, evaluative, invaluable, salutary, valuable, value, valued, valueless
 aly: analytic, analytical, apocalyptic, catalytic, catalyzed, paralytic, psychoanalytic, psychoanalytical, scaly
