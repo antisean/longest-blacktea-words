@@ -135,7 +135,7 @@ bla: black, blackboard, blackish, bladder, blameless, bland, blank, blasphemous,
 ble: able, ablest, abominable, acceptable, accessible, accountable, achievable, actionable, adaptable, adjustable
 bli: biblical, bibliographic, bibliographical, bibliography, blind, blinding, blissful, establish, established, establishment
 blo: bloated, block, blond, blonde, blood, blooded, bloodless, bloodthirsty, bloody, blown
-bly: wobbly
+bly: wobbly, bubbly, understandably
 boa: blackboard, board, boarding, boastful, cardboard, outboard, starboard
 bol: abolitionist, anabolic, bold, bolder, boldest, bolivian, bolshevik, diabolical, hyperbolic, metabolic
 bon: bona, bond, bonded, bone, bony, carbonaceous, carbonate, carbonic, carboniferous, deoxyribonucleic
