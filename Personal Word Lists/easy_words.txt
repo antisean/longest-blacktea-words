@@ -222,13 +222,13 @@ cur: accurate, accursed, concurrent, curable, curative, cure, curing, curious, c
 cus: accusative, accustomed, circus, custodial, custom, customary, customized, discuss, discussion, excusable
 cut: acute, consecutive, cut, cutaneous, cute, cutting, executable, executive, executory, interlocutory
 cyt: cytochrome, cytogenetic, cytologic, cytological, cytoplasmic, cytotoxic, erythrocyte, leukocyte, lymphocyte, lymphocytic
-dac: audacious, didactic
+dac: audacious, didactic, redact, redacts, redacting
 dae: sundae, sundaes, daedalus
 dal: bactericidal, bimodal, bridal, caudal, choroidal, colloidal, dal, extrapyramidal, feudal, gonadal
 dan: abundant, antioxidant, attendant, concordant, dan, dangerous, danish, dank, danube, defendant
 dar: boundary, dar, daring, dark, darkened, darker, darkest, darn, darwinian, legendary
 dat: consolidated, data, database, date, dated, dative, dilapidated, foundational, laudatory, mandated
-ddl: middle, middleclass
+ddl: middle, middleclass, meddle
 dea: andean, dead, deadly, deaf, deafening, dealer, dealing, dear, dearer, dearest
 dec: dec, decade, decadent, decayed, deceased, deceitful, decent, decentralised, decentralized, deceptive
 ded: added, aided, banded, beaded, bearded, bedded, blended, blooded, bonded, bounded
@@ -292,8 +292,8 @@ ecu: consecutive, ecumenical, executable, executive, executory, insecure, interm
 eda: medal, mohammedan, pedagogic, pedagogical, pedantic, predatory, sedate, sedative
 ede: antecedent, confederate, federal, federalist, needed, pedestrian, predefined, predetermined, psychedelic, redeeming
 edi: accredited, benedictine, biomedical, credible, credit, creditable, dedicated, disobedient, edible, edifying
-edl: heedless, needless
-edn: mindedness, redness
+edl: heedless, needless, absentmindedly
+edn: mindedness, redness, edna
 edo: bedouin, freedom, hedonic, hedonistic, macedonian, predominant, redoubtable
 edu: credulous, deductible, deductive, educated, educational, educative, incredulous, irreducible, medullary, procedural
 eed: agreed, feedback, freed, freedom, greedy, guaranteed, heedless, need, needed, needful
