@@ -188,7 +188,7 @@ cit: capacitive, capacity, citrate, citric, citrus, city, deficit, excitable, ex
 cke: backed, checkered, chicken, cracked, flickering, hockey, locked, necked, nickel, packed
 cki: blackish, brackish, checking, fucking, interlocking, locking, packing, rocking, shocking
 ckl: fickle, pickled, prickly, ramshackle, reckless, sickle, sickly, speckled
-cks: jacksonian
+cks: jacksonian, quicks, backs, picks, wicks
 cla: acclaimed, clad, clam, clammy, clan, clandestine, class, classic, classical, classificatory
 cle: article, atherosclerotic, circle, clean, cleaner, cleaning, cleanly, cleansing, clear, clearer
 cli: click, client, climactic, climate, climatic, clin, clinical, clipped, clive, cyclic
@@ -223,7 +223,7 @@ cus: accusative, accustomed, circus, custodial, custom, customary, customized, d
 cut: acute, consecutive, cut, cutaneous, cute, cutting, executable, executive, executory, interlocutory
 cyt: cytochrome, cytogenetic, cytologic, cytological, cytoplasmic, cytotoxic, erythrocyte, leukocyte, lymphocyte, lymphocytic
 dac: audacious, didactic
-dae: N/A
+dae: sundae, sundaes, daedalus
 dal: bactericidal, bimodal, bridal, caudal, choroidal, colloidal, dal, extrapyramidal, feudal, gonadal
 dan: abundant, antioxidant, attendant, concordant, dan, dangerous, danish, dank, danube, defendant
 dar: boundary, dar, daring, dark, darkened, darker, darkest, darn, darwinian, legendary
@@ -270,7 +270,7 @@ dul: adult, adulterous, credulous, dull, fraudulent, glandular, incredulous, ind
 eab: agreeable, changeable, chargeable, disagreeable, enforceable, exchangeable, foreseeable, impermeable, interchangeable, irreplaceable
 eac: bleached, breach, immunoreactive, peace, peaceable, peaceful, peacekeeping, peach, reachable, reaching
 ead: already, beaded, bread, dead, deadly, dread, dreaded, dreadful, head, headed
-eae: N/A
+eae: areae, deaerated, deaerate, deaeration
 eak: bleak, break, breaking, leakage, leaky, peak, peaked, speaking, unbreakable, unspeakable
 eal: appeal, appealing, arboreal, areal, boreal, concealed, corneal, corporeal, dealer, dealing
 eam: creamy, downstream, dreamlike, dreamy, mainstream, screaming, seamless, stream, streamlined, team
@@ -278,7 +278,7 @@ ean: aegean, andean, bean, boolean, caribbean, cesarean, chilean, clean, cleaner
 ear: bear, bearable, bearded, bearing, clear, clearer, clearest, cochlear, curvilinear, dear
 eas: breast, breasted, ceaseless, deceased, decreased, disease, diseased, easier, easiest, east
 eat: beat, beaten, breathless, breathtaking, create, created, creating, creative, death, defeating
-ebo: placebo
+ebo: placebo, freebooter, freeboot
 ebr: algebraic, celebrated, celebratory, cerebral, cerebrospinal, cerebrovascular, febrile, intervertebral, intracerebral, invertebrate
 eca: decade, decadent, decayed, faecal, fecal, forecast, precambrian, precarious, precast, precautionary
 ece: antecedent, deceased, deceitful, decent, decentralised, decentralized, deceptive, indecent, necessary, piece
@@ -301,7 +301,7 @@ eel: freelance, genteel, heeled, steel, steely, unfeeling, wheelchair, wheeled
 een: eighteen, eighteenth, fifteen, fifteenth, fourteen, fourteenth, green, greener, greenhouse, greenish
 eep: asleep, creepy, deep, deeper, deepest, keeping, peacekeeping, sheep, sleep, sleepless
 eer: beer, career, cheerful, cheering, cheery, deer, domineering, eerie, freer, peer
-ees: freestanding
+ees: freestanding, bees, trees, knees
 eet: discreet, fleeting, indiscreet, street, sweet, sweeter, sweetest
 efi: beneficent, beneficial, beneficiary, benefit, defiant, deficient, deficit, definable, define, defined
 efu: careful, defunct, disgraceful, distasteful, fateful, forceful, graceful, grateful, hateful, hopeful
@@ -379,7 +379,7 @@ eth: dimethyl, elizabethan, ethereal, ethernet, ethical, ethiopian, ethnic, ethn
 eti: acetic, aesthetic, alphabetic, alphabetical, anaesthetic, anesthetic, anticompetitive, antidiuretic, antithetical, apathetic
 eto: excretory, rhetoric, rhetorical, secretory
 etr: anthropometric, asymmetric, asymmetrical, barometric, colorimetric, detrimental, detroit, econometric, endometrial, etruscan
-ets: N/A
+ets: pets, bets, nets, beets
 ett: better, letter, petty, prettier, prettiest, pretty, regrettable, resettlement, settled, silhouette
 eud: feudal, freudian, pseudo
 eur: amateur, entrepreneurial, eurasian, eurocentric, european, heuristic, neural, neuroendocrine, neurogenic, neurol
@@ -427,7 +427,7 @@ gge: bigger, biggest, dogged, exaggerated, jagged, legged, ragged, rigged, rugge
 ght: airtight, almighty, bright, brighter, brightest, brightness, copyright, copyrighted, delighted, delightful
 gia: belgian, carolingian, collegial, collegiate, elegiac, georgian, giant, jungian, lagrangian, norwegian
 gic: adrenergic, allergic, analogical, anthropological, anticholinergic, archaeological, archeological, astrological, bacteriological, biologic
-gie: hygienic
+gie: hygienic, apologies, analogies, allergies
 gin: aboriginal, bridging, bulging, cartilaginous, cataloging, challenging, changing, damaging, discouraging, disparaging
 gis: gist, legislative, logistic, logistical, magisterial, registered, sluggish, synergistic, unregistered
 git: agitated, digit, digital, fugitive, illegitimate, legitimate, longitudinal, sagittal
@@ -515,7 +515,7 @@ ici: anticipated, anticipatory, artificial, auspicious, bactericidal, beneficial
 ick: chick, chicken, click, fickle, flickering, homesick, nickel, panicky, pick, pickled
 ico: anticoagulant, anticommunist, anticompetitive, anticonvulsant, corticosteroid, iconic, iconoclastic, iconographic, multicolored, multicomponent
 icr: antimicrobial, handicraft, ludicrous, micro, microbial, microbiological, microeconomic, microscopic, microscopy, microsomal
-ics: narcotics
+ics: narcotics, pics, tropics, dynamics
 ict: addictive, afflicted, benedictine, conflict, conflicting, conflictual, constricted, contradictory, derelict, dictatorial
 icu: agricultural, articular, articulate, articulated, articulatory, atrioventricular, auricular, conspicuous, curricular, difficult
 ida: antioxidant, avoidable, bactericidal, bridal, choroidal, colloidal, consolidated, didactic, dilapidated, extrapyramidal
@@ -616,7 +616,7 @@ kle: ankle, fickle, pickled, ramshackle, reckless, sickle, speckled, wrinkled
 lab: available, collaborative, controllable, elaborate, flabby, incalculable, inviolable, irreconcilable, labelled, labial
 lac: anaphylactic, appalachian, black, blackboard, blackish, commonplace, complacent, displaced, displacement, fallacious
 lad: bladder, clad, glad, laden, maladaptive, salad
-lae: N/A
+lae: alae, aulae, blae, blaeberry
 lag: cartilaginous, flag, flagrant, lagrangian, pelagic
 lai: acclaimed, complaint, formulaic, inlaid, lai, laid, laissez, plain, plaintive, porcelain
 lam: antiinflammatory, blameless, clam, clammy, filamentous, flamboyant, flaming, flammable, glamorous, hypothalamic
@@ -684,7 +684,7 @@ lve: alveolar, insolvent, involved, silver, silvery, solvent, twelve, uninvolved
 lys: cataclysmic, lysosomal
 mac: climactic, emaciated, immaculate, macabre, macedonian, mach, machiavellian, machine, macro, macroeconomic
 mag: damaged, damaging, electromagnetic, ferromagnetic, geomagnetic, image, imaginable, imaginary, imaginative, magic
-mak: makeshift, making
+mak: makeshift, making, make
 mal: abnormal, abysmal, animal, anomalous, autosomal, baptismal, chromosomal, conformal, decimal, dermal
 man: adamant, brahmanical, command, commander, commanding, demand, demanding, dormant, emancipated, emancipatory
 mar: benchmark, customary, extramarital, grammar, landmark, mammary, mar, maratha, marble, marginal
@@ -815,7 +815,7 @@ nre: genre, nonresident, unreadable, unreal, unrealistic, unrealized, unreasonab
 nsa: compensated, compensating, compensatory, indispensable, insane, insatiable, sensational, transactional, transatlantic, unsafe
 nsc: conscientious, conscious, consciousness, inscribed, inscrutable, subconscious, transcendent, transcendental, transcontinental, transcriptional
 nse: commonsense, condensed, consecrated, consecutive, consensual, consent, consequent, consequential, conservative, conserved
-nsh: inshore, unshakable
+nsh: inshore, unshakable, sunshine, unshaken
 nsi: angiotensin, antihypertensive, apprehensive, cleansing, comprehensible, comprehensive, considerable, considerate, considered, consistent
 nso: burdensome, consolidated, consoling, consonant, extensor, insolent, insoluble, insolvent, sensor, sensorimotor
 nsp: conspicuous, conspiratorial, inconspicuous, inspirational, inspiratory, inspired, inspiring, nonspecific, transparent, transplanted
@@ -828,7 +828,7 @@ nti: abovementioned, adventitious, aforementioned, anti, antiaircraft, antibacte
 ntl: countless, disgruntled, gentle, gentlemanly, gentler, inherently, pointless, recently, relentless, saintly
 nto: cantonese, contour, downtown, filamentous, intolerable, intolerant, intoxicated, inventory, momentous, nontoxic
 ntr: atrioventricular, central, centralised, centralized, centrally, centre, centred, centric, centrifugal, centripetal
-nts: contents
+nts: contents, pants, wants, hunts
 ntu: adventurous, bantu, century, eventual, indentured, intuitive, quantum
 nve: convective, convenient, conventional, convergent, conversant, conversational, converted, convertible, convex, inconvenient
 oar: blackboard, board, boarding, cardboard, coarse, coarsely, coarser, hoarse, hoary, oar
@@ -856,7 +856,7 @@ oga: arrogant, derogatory, interrogative, logarithmic, monogamous, surrogate, yo
 oge: allogeneic, anthropogenic, apologetic, biogenic, carcinogenic, cogent, cryogenic, cytogenetic, endogenous, exogenous
 ogi: analogical, anthropological, archaeological, archeological, astrological, bacteriological, biologic, biological, cataloging, christological
 ogr: angiographic, autobiographical, bibliographic, bibliographical, bibliography, biographical, cartographic, chromatographic, cryptographic, crystallographic
-ogy: androgynous, technology
+ogy: androgynous, technology, biology, trilogy
 oid: amyloid, avoid, avoidable, celluloid, choroid, choroidal, colloid, colloidal, corticosteroid, deltoid
 oin: adjoining, appointed, coincident, coincidental, conjoint, disappointed, disappointing, disjoint, disjointed, easygoing
 ois: boisterous, bourgeois, egoistic, iroquois, maoist, moist, moisture, noise, noisy, poisonous
@@ -876,7 +876,7 @@ omi: abdominal, abominable, anatomic, anatomical, astronomical, atomic, atomisti
 omm: anticommunist, command, commander, commanding, commemorative, commencement, commendable, commensurate, comment, commentary
 omo: anthropomorphic, automobile, automotive, autonomous, chromosomal, chromosome, dichotomous, homogeneous, homogenous, homologous
 omp: accompanying, accomplished, anticompetitive, comp, compact, company, comparable, comparative, compare, compassionate
-omy: gloomy
+omy: gloomy, roomy, unroomy, broomy
 ona: actionable, additional, aeronautical, affectionate, associational, attentional, axonal, bidirectional, bona, carbonaceous
 onc: bronchial, concave, concealed, conceited, conceivable, conceived, concentrated, concentric, concept, conceptual
 ond: beyond, blond, blonde, bond, bonded, condensed, condescending, conditional, conditioned, conditioning
@@ -887,7 +887,7 @@ oni: abolitionist, acrimonious, agonizing, amazonian, ammonium, anachronistic, a
 onn: connect, connected, connecting, connective, disconnected, gonna, interconnected, nonnegative, personnel, unconnected
 ono: astronomical, asynchronous, autochthonous, autonomic, autonomous, chronological, donor, econometric, economic, economical
 onp: commonplace, nonparametric, nonpartisan, nonpolar, nonpolitical, nonprofessional, nonprofit, nonpublic
-onr: nonresident
+onr: nonresident, conrad, conred, masonry
 ons: commonsense, conclusions, conscientious, conscious, consciousness, consecrated, consecutive, consensual, consent, consequent
 ont: confrontational, cont, contact, contagious, containing, contaminant, contemplated, contemplative, contemporaneous, contemporary
 onv: anticonvulsant, convalescent, convective, convenient, conventional, convergent, conversant, conversational, converted, convertible
@@ -981,7 +981,7 @@ ple: ample, apple, complement, complementary, complete, completed, complex, crip
 pli: accomplished, amplifier, amplitude, applicable, applicant, application, applied, compliant, complicated, complimentary
 plo: deplorable, diploid, diplomatic, employed, employee, employer, employment, exploitative, exploited, exploratory
 plu: plug, plumb, plump, plural, pluralist, pluralistic, plus, surplus
-pod: N/A
+pod: pod, podium, podiums, pseudopod
 pol: anthropological, apolitical, apologetic, bipolar, cosmopolitan, dipole, geopolitical, indianapolis, interpolated, metropolitan
 pon: component, corresponding, despondent, exponential, irresponsible, multicomponent, ponderous, pong, preponderant, respondent
 pop: pop, popish, popliteal, poppy, popular, populated, population, populist, populous, unpopular
@@ -1030,7 +1030,7 @@ rco: interconnected, intercontinental, intercostal, narcotic, narcotics, underco
 rcu: arcuate, circuit, circuitous, circular, circulatory, circumferential, circumscribed, circumspect, circumstantial, circus
 rde: ardent, bearded, border, borderline, burdensome, disordered, disorderly, garde, guarded, hardened
 rdi: boarding, cardiac, cardinal, cardiopulmonary, cardiovascular, coordinate, coordinated, coordinating, cordial, edwardian
-rds: N/A
+rds: hards, words, birds, cards
 rea: already, arboreal, area, areal, bereaved, boreal, breach, bread, break, breaking
 reb: cerebellar, cerebral, cerebrospinal, cerebrovascular, intracerebral, rebel, rebellious, treble
 rec: appreciable, appreciative, bidirectional, correct, correctional, corrective, depreciable, direct, directed, directional
@@ -1143,7 +1143,7 @@ sep: antiseptic, aseptic, horsepower, inseparable, separable, separate, separate
 ser: assertive, closer, coarser, conservative, conserved, denser, desert, deserted, deserved, deserving
 ses: assess, assessment, closest, horseshoe, obsessed, obsessional, obsessive, possessive, sessile, wisest
 set: asset, onset, preset, reset, resettlement, set, settled, unsettled, unsettling, upset
-seu: pseudo
+seu: pseudo, masseuse, masseuses
 sha: ashamed, distinguishable, imperishable, indistinguishable, misshapen, perishable, punishable, ramshackle, shabby, shaded
 she: accomplished, anguished, ashen, astonished, bolshevik, burnished, cherished, crushed, diminished, distinguished
 shi: astonishing, distinguishing, fashionable, fashioned, finishing, fishing, flourishing, makeshift, nourishing, refreshing
@@ -1163,11 +1163,11 @@ siv: abrasive, abusive, adhesive, aggressive, antihypertensive, apprehensive, av
 ski: eskimo, ski, skilful, skill, skilled, skillful, skin, skinned, skinny, unskilled
 sla: antislavery, enslaved, islam, islamic, islamist, island, legislative, slack, slate, slav
 sli: businesslike, muslim, sliced, slick, slight, slightest, slim, slimy, slippery, slit
-sly: grisly, sly
+sly: grisly, sly, dangerously
 sma: abysmal, baptismal, charismatic, dismal, paroxysmal, plasma, prismatic, small, smaller, smallest
 smi: cataclysmic, cosmic, cytoplasmic, dismissive, endoplasmic, organismic, seismic, transmitted
 smo: cosmological, cosmopolitan, osmotic, smoke, smoking, smoky, smooth, smoother, spasmodic
-sne: consciousness
+sne: consciousness, sneak, sneaker, sneaking, sneaks
 soc: antisocial, assoc, associate, associated, associational, associative, dissociated, dissociative, masochistic, nosocomial
 sol: absolute, absolutist, consolidated, consoling, desolate, dissolute, indissoluble, insolent, insoluble, insolvent
 som: autosomal, awesome, bothersome, burdensome, chromosomal, chromosome, cumbersome, fearsome, gruesome, handsome
@@ -1192,7 +1192,7 @@ sth: aesthetic, anaesthetic, anesthetic, asthmatic, esthetic, firsthand, kinesth
 sti: acoustic, acoustical, agnostic, altruistic, anachronistic, antagonistic, aplastic, artistic, assistive, atheistic
 sto: accustomed, ahistorical, apostolic, aristocratic, aristotelian, astonished, astonishing, astounding, boston, christological
 str: abstract, abstracted, abstruse, administrative, ancestral, astral, astringent, astrological, astronomical, australia
-sts: postscript, postsynaptic
+sts: postscript, postsynaptic, lists, blasts
 stu: astute, disturbed, disturbing, estuarine, gestural, incestuous, moisture, postulated, postural, stubborn
 sty: bloodthirsty, crusty, dusty, frosty, hasty, lusty, majesty, misty, musty, nasty
 sub: insubstantial, intersubjective, sub, subacute, subaltern, subarachnoid, subatomic, subcellular, subclavian, subclinical
@@ -1244,7 +1244,7 @@ tip: antipsychotic, multiparty, multiple, multiplication, multiplicative, multip
 tis: absolutist, advertised, antisemitic, antiseptic, antislavery, antisocial, artisan, artistic, autistic, baptismal
 tit: adventitious, altitude, anticompetitive, antithetical, antitrust, antitumor, attitudinal, competitive, constituted, constitutional
 tiv: abortive, absorptive, accusative, acquisitive, activated, active, activist, adaptive, addictive, additive
-tiz: N/A
+tiz: sanitize, hypnotize, sanitization
 tle: apostle, battle, bottled, brittle, cattle, countless, disgruntled, doubtless, effortless, embattled
 tli: outline, startling, unsettling
 tly: costly, courtly, ghastly, ghostly, inherently, knightly, nightly, outlying, priestly, recently
@@ -1288,7 +1288,7 @@ uck: duck, fucking, lucky, stuck, unlucky
 uct: conductive, constructional, constructive, constructivist, counterproductive, deductible, deductive, destructive, ductal, ductile
 ude: altitude, amplitude, claude, clouded, crude, crudest, imprudent, impudent, include, latitude
 udi: attitudinal, audible, audience, audio, audiovisual, auditing, auditory, concluding, erudite, freudian
-udo: pseudo
+udo: pseudo, judo, judoka
 uen: affluent, confluent, congruent, consequent, consequential, delinquent, effluent, eloquent, fluent, frequency
 uff: buff, buffalo, buffered, fluffy, gruff, insufficient, muffled, puffy, ruffled, stuffed
 ugh: distraught, draught, drought, enough, haughty, laughable, naughty, rough, rougher, roughness
@@ -1336,8 +1336,8 @@ urs: accursed, cursive, cursory, discursive, ours, recursive, yourself
 use: abstruse, abused, amused, amusement, confused, diffuse, diffused, focused, fused, greenhouse
 ush: brush, bushy, crushed, flush, hushed, lush, mushroom, push, rush
 usi: abusive, amusing, busiest, business, businesslike, causing, conclusion, conclusions, conclusive, confusing
-usl: muslim
-usn: consciousness
+usl: muslim, dangerously, muslims, muslin
+usn: consciousness, dangerousness, nervousness
 uss: discuss, discussion, fussy, gaussian, prussian, russian
 ust: accustomed, acoustic, acoustical, adjustable, adjusted, antitrust, august, augustan, augustinian, austere
 uta: attributable, brutal, commutative, computational, cutaneous, disreputable, executable, glutamic, immutable, indisputable
@@ -1379,7 +1379,7 @@ ych: antipsychotic, intrapsychic, neuropsychological, psychedelic, psychiatric, 
 ydr: anhydrous, carbohydrate, hydrated, hydraulic, hydro, hydrocarbon, hydrochloric, hydrodynamic, hydroelectric, hydrogen
 yin: accompanying, annoying, carrying, dizzying, drying, edifying, flying, frying, gratifying, horrifying
 yla: anaphylactic, prophylactic
-yle: style, styled
+yle: style, styled, styles
 yli: acrylic, carboxylic, cylinder, cylindrical, stylish, stylistic, stylized
 yll: idyllic, syllabic, syllable
 ylo: amyloid, babylonian, phylogenetic, pyloric, staphylococcal
@@ -1396,5 +1396,5 @@ yto: cytochrome, cytogenetic, cytologic, cytological, cytoplasmic, cytotoxic
 zat: organizational
 zed: catalyzed, centralized, civilized, computerized, crazed, customized, decentralized, disorganized, fluidized, galvanized
 zer: nonzero, zero
-zes: N/A
+zes: blazes, mazes, crazes, amazes
 zin: agonizing, amazing, blazing, civilizing, demoralizing, destabilizing, freezing, grazing, maximizing, oxidizing
