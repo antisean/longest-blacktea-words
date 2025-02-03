@@ -6,7 +6,7 @@ List of the longest possible blacktea/redtea words for possible syllable combina
 Also contains list of every three letter sequence possible.
 
 # Categories of Words
-Currently has some categories for words (berries, phobias, etc.)
+Currently has some categories for words (berries, phobias, etc). These all work in Blacktea.
 
 # Personal Lists
-Contains misspelled/glitched words, doubled/glitched words, and other lists.
+Contains misspelled/glitched words, doubled/glitched words, and other lists. All of these work in Blacktea.
