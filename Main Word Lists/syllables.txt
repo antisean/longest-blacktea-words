@@ -271,6 +271,7 @@ eab
 eac
 ead
 eae
+eak
 eal
 eam
 ean
@@ -594,6 +595,7 @@ ita
 ite
 ith
 iti
+ito
 itr
 itt
 itu
@@ -980,6 +982,7 @@ pli
 plo
 plu
 pod
+pol
 pon
 pop
 por
