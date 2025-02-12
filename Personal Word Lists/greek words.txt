@@ -63,6 +63,7 @@ asterias
 astyanax
 atalanta
 athena
+athens
 atlas
 atropos
 aura
@@ -402,7 +403,9 @@ uranus
 zephyr
 zephyrus
 zeus
-
+sparta
+spartan
+delphi
 
 
 
