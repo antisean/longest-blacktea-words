@@ -33,6 +33,7 @@ backcourtman
 backspacefile
 backswordman
 backswordmen
+backswordsman
 backwoodsman
 backwoodsmen
 batsmanship
@@ -41,6 +42,7 @@ blackberrylike
 blackguardism
 blackheartedness
 blockheadism
+bloodguiltless
 boardmanship
 boardsmanship
 boatmanship
@@ -208,6 +210,7 @@ homelikeness
 horsemanship
 horsewomanship
 hostageship
+householdership
 housekeeperlike
 housewifeship
 howsoever
@@ -218,6 +221,7 @@ inkhornism
 insofar
 insomuch
 interlinkage
+internetworking
 interrailway
 interseaboard
 jackassification
@@ -339,6 +343,7 @@ plowmanship
 policemanlike
 policemanship
 postbreakfast
+posthippocampal
 postmasterlike
 pranksomeness
 preadulthood
@@ -353,8 +358,13 @@ probasketball
 prologlike
 prorailroad
 prostemmate
+prowaterpower
 pseudohydrophobia
 quartermasterlike
+radiobroadcasted
+radiobroadcaster
+radiobroadcasters
+radiobroadcasting
 railroadship
 railwayless
 railwayman
@@ -532,6 +542,7 @@ ngoatlike
 ungodlike
 ungospellike
 ungypsylike
+uninterferedwith
 unherolike
 unhomelike
 unhoodwinked
