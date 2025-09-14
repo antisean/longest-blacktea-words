@@ -151,6 +151,8 @@ forebemoan
 forebemoaned
 forebespeak
 foremanship
+foretopmast
+foretopsail
 fourteenfold
 freechurchism
 freemanship
@@ -194,7 +196,9 @@ handsawfish
 handworkman
 hangmanship
 harpwaytuning
+headforemost
 headlongwise
+headmistressship
 helmsmanship
 henchmanship
 herbarism
@@ -458,6 +462,7 @@ surfboatman
 surfmanship
 swashbucklerdom
 sweetheartship
+swellmobsman
 swordfisherman
 swordmanship
 swordsmanship
