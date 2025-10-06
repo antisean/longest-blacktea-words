@@ -16,7 +16,7 @@ act: aerobacteriologically, chlamydobacteriaceous, noncharacteristically
 acu: hypermiraculousness
 ada: ancistrocladaceous, chlamydomonadaceae, superadaptableness
 add: addleheadedness, superadditional
-ade: adenylpyrophosphate, adenochondrosarcoma, papilloadenocystoma
+ade: adenochondrosarcoma, adenylpyrophosphate, papilloadenocystoma
 adi: dicyclopentadienyliron
 ado: ultradolichocephalic
 adr: adrenocorticosteroid, adrenocorticotrophic, adrenocorticotrophin
@@ -151,7 +151,7 @@ bur: semibureaucratically
 bus: incombustibleness, noncombustibility
 but: azoisobutyronitrile, noncontributiveness, nondistributiveness
 cab: historicocabbalistical
-cal: electroencephalographically, microspectrophotometrically
+cal: electroencephalographically, microspectrophotometrically, psychoneuroendocrinological
 cam: antepredicamental, strouthiocamelian
 can: macracanthrorhynchiasis
 cap: anticapitalistically, semicapitalistically
@@ -171,7 +171,7 @@ cha: noninterchangeableness, zoologicoarchaeologist
 che: chemicopharmaceutical
 chi: macracanthrorhynchiasis, pseudolamellibranchiata, pseudolamellibranchiate
 chl: dichlorodiphenyltrichloroethane
-cho: philosophicopsychological
+cho: psychoneuroendocrinological
 chr: photochronographically
 chu: protocatechualdehyde
 chy: hypsibrachycephalism, platybrachycephalous, pseudoparenchymatous
@@ -206,7 +206,7 @@ cot: philosophicotheological
 cou: counterclassifications, counterexcommunication, counterrevolutionaries
 cra: macracanthrorhynchiasis
 cre: pancreaticoduodenostomy
-cri: pharmacoendocrinology
+cri: psychoneuroendocrinological
 cro: microspectrophotometrically
 cru: overscrupulousness
 cry: dacryocystoblennorrhea, dacryocystosyringotomy, microcryptocrystalline
@@ -254,7 +254,7 @@ div: overindividualistically
 dle: intermeddlesomeness
 dly: westnorthwestwardly
 dne: unstraightforwardness
-doc: choledochoduodenostomy
+doc: psychoneuroendocrinological
 dol: pseudolamellibranchiata, pseudolamellibranchiate
 dom: pseudomonocotyledonous, sternocleidomastoideus
 don: pseudomonocotyledonous
@@ -326,7 +326,7 @@ emo: anemometrographically
 emp: noncontemporaneousness
 ena: pseudophenanthroline
 enc: electroencephalographically
-end: lymphangioendothelioma
+end: psychoneuroendocrinological
 ene: cyclotrimethylenetrinitramine
 eng: counterdisengagement
 eni: encephalomeningocele, meningoencephalocele, philoprogenitiveness
@@ -382,7 +382,7 @@ etr: cyclotrimethylenetrinitramine
 ets: bretschneideraceae
 ett: carettochelydidae, unforgettableness
 eud: pseudointernationalistic
-eur: neurochorioretinitis, neuropharmacological, neurophysiologically, neuropsychiatrically
+eur: psychoneuroendocrinological
 eva: pseudoevangelically, superbelievableness
 eve: counterdevelopment, nondevelopmentally
 evi: superdevilishness
@@ -426,7 +426,7 @@ ges: overgesticulativeness
 gge: hypersuggestibleness
 ght: unstraightforwardness
 gia: bronchohemorrhagia
-gic: philosophicopsychological
+gic: psychoneuroendocrinological
 gie: anesthesiologies, antihygienically, bioclimatologies, lymphangiectasis, lymphangiectatic, lymphangiectodes, micropathologies, otolaryngologies, parapsychologies, symptomatologies
 gin: membranocartilaginous
 gis: zoologicoarchaeologist
@@ -480,7 +480,7 @@ hlo: dichlorodiphenyltrichloroethane
 hob: ornithobiographical, orthobrachycephalic
 hol: philosophicopsychological
 hom: homeotransplantation
-hon: phenolsulphonephthalein, thymolsulphonephthalein
+hon: psychoneuroendocrinological
 hoo: schoolmasterishness
 hop: psychopharmacological, psychophysiologically
 hor: immunoelectrophoretically
@@ -508,7 +508,7 @@ ibe: uncircumscribedness
 ibi: hypersuggestibility, hypersusceptibility, impossibilification, incomprehensibility, incontrovertibility, interconvertibility, interresponsibility, introconvertibility, nonapprehensibility, nonreprehensibility, nonresponsibilities, superresponsibility
 ibl: superincomprehensibleness
 ibr: pseudolamellibranchiata, pseudolamellibranchiate
-ica: electroencephalographically, microspectrophotometrically
+ica: electroencephalographically, microspectrophotometrically, psychoneuroendocrinological
 ice: superserviceableness
 ich: dichlorodiphenyltrichloroethane
 ici: magnetothermoelectricity
@@ -559,7 +559,7 @@ ing: preobtrudingpreobtrusion
 ini: cyclotrimethylenetrinitramine, trinitrophenylmethylnitramine
 ink: intersprinkling, undrinkableness, unshrinkability, unshrinkingness, unthinkableness
 inn: antitintinnabularian
-ino: aminoacetophenetidine, dacryocystorhinostomy, membranocartilaginous, otorhinolaryngologist, pharmacoendocrinology
+ino: psychoneuroendocrinological
 ins: deinstitutionalization
 int: pseudointernationalistic
 inu: spinulosodenticulate
@@ -663,7 +663,7 @@ lly: electroencephalographically, microspectrophotometrically
 lne: hyperintellectualness
 lob: cyanomethaemoglobin, hyperhemoglobinemia
 loc: meningoencephalocele
-log: electroencephalographically
+log: electroencephalographically, psychoneuroendocrinological
 loi: poluphloisboiotatotic
 lom: polioencephalomyelitis
 lon: phenylethylmalonylurea
@@ -755,7 +755,7 @@ nda: supersuperabundantly, ultrastandardization
 nde: supertranscendentness, transcendentalisation, transcendentalization
 ndi: overindividualistically
 ndl: candlestickward, undergroundling
-ndo: lymphangioendothelioma
+ndo: psychoneuroendocrinological
 ndr: dendrochronologically, palaeodendrologically
 nds: secondsightedness
 ndu: overindustrialization
@@ -769,7 +769,7 @@ neo: noncontemporaneousness
 ner: regeneratoryregeneratress
 nes: superincomprehensibleness
 net: cyclotrimethylenetrinitramine
-neu: hydropneumopericardium, pyopneumocholecystitis, pneumohydropericardium, pneumoventriculography
+neu: psychoneuroendocrinological
 nex: unextinguishableness
 nfe: preinferredpreinferring
 nfi: nonconfidentialness
@@ -802,7 +802,7 @@ nni: noncannibalistically
 noc: duodenocholecystostomy, pseudomonocotyledonous, sternocleidomastoideus
 nog: photochronographically
 noi: ethmopresphenoidal, occipitosphenoidal, thyreoarytenoideus, zygomaticosphenoid
-nol: tetraiodophenolphthalein
+nol: psychoneuroendocrinological
 nom: interdenominationalism, theologicoastronomical
 non: noncontemporaneousness, nondistinguishableness, noninterchangeableness, nonrepresentationalism
 nop: duodenopancreatectomy
@@ -843,7 +843,7 @@ och: choledochoduodenostomy, duodenocholecystostomy, photochronographically, pyo
 oci: chronocinematography, microcinematographic
 ock: unbluestockingish
 oco: hydroxydehydrocorticosterone
-ocr: microcryptocrystalline, pseudoaristocratically
+ocr: psychoneuroendocrinological
 oct: counterindoctrination
 ocu: ethylhydrocupreine, pseudomultilocular
 ocy: dacryocystoblennorrhea, dacryocystosyringotomy, ureterocystanastomosis
@@ -854,7 +854,7 @@ odo: tetraiodophenolphthalein
 off: superoffensiveness, superofficiousness
 oga: pancreaticogastrostomy
 oge: scientificogeographical
-ogi: philosophicopsychological
+ogi: psychoneuroendocrinological
 ogr: electroencephalographically
 ogy: pharmacoendocrinology
 oid: thyroparathyroidectomize
@@ -866,7 +866,7 @@ old: antistadholderian
 ole: dihdroxycholecalciferol
 oli: polioencephalomyelitis
 oll: chromocollographic, collectivistically, uncontrollableness
-olo: philosophicopsychological
+olo: psychoneuroendocrinological
 olu: counterrevolutionaries
 oly: polytetrafluoroethylene
 oma: lymphangioendothelioma, sternocleidomastoideus
@@ -997,7 +997,7 @@ pri: inappropriableness, unenterprisingness
 pro: desoxyribonucleoprotein
 pse: pseudointernationalistic
 psi: hypsidolichocephalism
-psy: philosophicopsychological
+psy: psychoneuroendocrinological
 pte: archaeopterygiformes
 pti: orbiculatoelliptical
 pto: microcryptocrystalline
@@ -1041,7 +1041,7 @@ reg: regeneratoryregeneratress
 reh: superincomprehensibleness
 rei: preinferredpreinferring
 rel: philosophicoreligious
-rem: premisrepresentation, syncategorematically, superceremoniousness
+rem: premisrepresentation, superceremoniousness, syncategorematically
 ren: epididymodeferentectomy
 reo: preobtrudingpreobtrusion
 rep: nonrepresentationalism, omnirepresentativeness, overrepresentativeness
@@ -1199,7 +1199,7 @@ sub: transubstantiationalist
 sul: formaldehydesulphoxylate
 sup: superincomprehensibleness
 sur: antiinsurrectionally, antiinsurrectionists
-syc: philosophicopsychological
+syc: psychoneuroendocrinological
 syn: electrosynthetically, syncategorematically
 tab: antidisestablishmentarianism
 tac: metacarpophalangeal, saccharomycetaceous
@@ -1330,7 +1330,7 @@ ure: phenylethylmalonylurea, ureterocystanastomosis
 urg: anatomicochirurgical, electrometallurgical, hydrometallurgically
 uri: hydrodesulphurization, microminiaturizations, zygomaticoauricularis
 urn: nonjournalistically
-uro: benzofuroquinoxaline, neurochorioretinitis, neuropharmacological, neurophysiologically, neuropsychiatrically
+uro: psychoneuroendocrinological
 urr: antiinsurrectionally, antiinsurrectionists
 urs: hyperexcursiveness
 use: lupuserythematosus
@@ -1375,7 +1375,7 @@ woo: woodenheadedness
 wor: counterbreastwork, unblameworthiness, unfaithworthiness, untrustworthiness
 xtr: pseudoambidextrously
 yan: hydroxyanthraquinone
-ych: philosophicopsychological
+ych: psychoneuroendocrinological
 ydr: hydroxydehydrocorticosterone
 yin: interstratifying, nondisqualifying, overdiversifying, overintensifying, overobjectifying, overpreoccupying, substantiallying, supersimplifying, unsatisfyingness
 yla: diphenylaminechlorarsine, formaldehydesulphoxylate
