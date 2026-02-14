@@ -408,7 +408,7 @@ fol: cochlearifoliate, perifolliculitis, pseudofoliaceous, quinquefoliolate
 for: formaldehydesulphoxylate
 fra: archconfraternities, disenfranchisements
 fre: freewheelingness, nonselfregarding, underfrequencies, unfrequentedness
-fri: frictionlessness, unfrightenedness
+fri: guestfriendliness
 fro: superultrafrostified
 ful: scrofulotuberculous
 gal: electrogalvanization, galvanocauterization, galvanocontractility, saccharogalactorrhea
@@ -754,7 +754,7 @@ ncy: noninterdependency, presuperintendency
 nda: supersuperabundantly, ultrastandardization
 nde: supertranscendentness, transcendentalisation, transcendentalization
 ndi: overindividualistically
-ndl: candlestickward, undergroundling
+ndl: guestfriendliness
 ndo: psychoneuroendocrinological
 ndr: dendrochronologically, palaeodendrologically
 nds: secondsightedness
