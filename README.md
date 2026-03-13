@@ -10,3 +10,6 @@ Currently has some categories for words (berries, phobias, etc). These all work 
 
 # Personal Lists
 Contains misspelled/glitched words, doubled/glitched words, and other lists. All of these work in Blacktea.
+
+# Disclaimer
+Stop using my github to make your scripts you hooligans
