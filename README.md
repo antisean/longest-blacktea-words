@@ -12,4 +12,6 @@ Currently has some categories for words (berries, phobias, etc). These all work 
 Contains misspelled/glitched words, doubled/glitched words, and other lists. All of these work in Blacktea.
 
 # Disclaimer
-Stop using my github to make your scripts you hooligans
+There is a discord dedicated to Blacktea if you are interested in joining (https://discord.gg/rPQtDc5TRp)
+
+Stop using my words to make your bots hooligans
